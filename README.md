@@ -31,12 +31,16 @@
 | 作業系統軟體操作 |
 |:-----------------------------:|
 | 文書處理操作 |
-# 興趣 #
+
+<details><summary> 興趣 </summary><blockquote>
 
 | 桌球 |
 |:-----------------------------:|
-| 了解程式設計相關語言 |
+| 了解程式設計 |
+</blockquote></details>
+
 
 <a href="https://youtu.be/ZqbjJa4UWBY" target="_blank"><img src="https://github.com/109252101/Course/assets/161834568/f565f2d4-cc90-4440-9efa-89a79d1376bf"
 alt="台灣第一大 全球前3大 你所不知道的這家公司？" width="400" height="250" border="10" /></a>
-<br>影片取自 youtube   
+<br>影片取自 youtube
+
