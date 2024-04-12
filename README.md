@@ -1,3 +1,5 @@
+![image](https://github.com/109252101/Course/assets/161834568/bcaa1bde-a595-45e8-9ab3-02f9da718793)
+
 # 基本資料 #
 |      照片        |<img src="https://github.com/109252101/Course/assets/161834568/38a28dc6-52c3-49ae-9fca-8892fab20585" width=100 height=100/>|
 | ---------------- |:-----------------------------:|
